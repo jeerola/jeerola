@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hello! 👋
 
+- 👋 Hi, my name is Jaakko!
+- 🎓 I'm currently studying at Tampere University of Applied Sciences, Bachelor of Business Administration (BBA), Information Technology.
+- 🌱 I’m interested in getting better at coding and learning something new every day.
+- 📫 How to reach me:
+  - E-mail: eerolajaakko@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/eerolajaakko
+- ⚡ Fun fact: I'm really into emo punk.
 <!--
 **jeerola/jeerola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
